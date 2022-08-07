@@ -1,0 +1,9 @@
+Functions to implement
+    AddUser(user, password)
+    Authenticate(user, password)
+    SetDomain(user, domain_name)
+    DomainInfo(domain_name)
+    SetType(objectname, type)
+    TypeInfo(type)
+    AddAccess(operation, domain_name, type_name)
+    CanAccess(operation, user, object)
