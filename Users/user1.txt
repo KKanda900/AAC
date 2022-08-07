@@ -1,3 +1,0 @@
-user1
-password
-[<"Text1.txt", "rwe">, <"Text2.txt", "rw"]
